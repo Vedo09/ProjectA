@@ -3,9 +3,9 @@ Just a demo
 
 Systems to design
 ---
-CRM
-FMS
-LMS
-HRMS
+- CRM
+- FMS
+- LMS
+- HRMS
 
 
